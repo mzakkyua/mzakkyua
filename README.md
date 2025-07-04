@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=440&height=55&lines=Hello+World+!%F0%9F%91%8B;I'm+M.+Zakky+Ulil+Amry;%F0%9F%9A%80+Aspiring+Full+Stack+Developer+%7C;Crafting+clean+and+purposeful+code)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=440&height=55&lines=Hello+World+!%F0%9F%91%8B;I'm+M.+Zakky+Ulil+Amry;%F0%9F%9A%80+Aspiring+Full+Stack+Developer+%7C;Crafting+clean+and+purposeful+code" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
