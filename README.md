@@ -22,7 +22,7 @@
 
 #### 🔗 Let’s Connect
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zky_ull?igsh=ejhpZnQzb21hOTd2) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.instagram.com/zky_ull?igsh=ejhpZnQzb21hOTd2)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zky_ull?igsh=ejhpZnQzb21hOTd2) [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/zakkyulil)
 
 ---
 #### 📊 GitHub Stats
